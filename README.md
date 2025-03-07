@@ -1,5 +1,7 @@
 # Music App User Analysis
 
+Dilan Music App is a newly launched music streaming platform that needed assistance in analyzing their user behavior and engagement metrics. As part of their initial growth phase, this project conducts a comprehensive SQL-based analysis of their user base, which currently consists of 50,000 active users. This analysis serves both as a practical SQL exploration exercise and provides valuable insights for the app's development team.
+
 This repository contains SQL queries for analyzing user behavior and music preferences in a music streaming application. The analysis includes:
 
 - User favorites and listening patterns
